@@ -1,4 +1,4 @@
-## Oi! 👋, me chamo João Goulart.
+## Heey 👋, I'm João Goulart!
 
 <!-- 
 
