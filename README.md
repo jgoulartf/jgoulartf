@@ -5,13 +5,13 @@
 gif codigo
 <img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
-
+-->
 
 <div>
-<a href = "mailto:joao123goulart@gmail.com"><img src="" target="_blank"></a>
+<a href = "mailto:joao123goulart@gmail.com"><img src="https://user-images.githubusercontent.com/32155230/183216360-bd80dba9-8b36-4a50-944d-45e8b7ff45bb.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-goulart-0a2541150/" height=100 width=100 target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>   
 </div>
--->
+
 
 ## Github Stats 🔥
 <div>
