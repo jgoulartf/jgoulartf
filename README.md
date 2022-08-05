@@ -1,8 +1,8 @@
-## João Goulart
-### Hello, Devs!!
+## Oi!👋, me chamo João Goulart.
+### 
 
 
-
+## Github Stats 🔥
 <div>
 <a href="https://github.com/jgoulartf">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgoulartf&layout=compact&langs_count=7&theme=dracula"/>
