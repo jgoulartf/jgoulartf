@@ -19,8 +19,7 @@ gif codigo
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div
-
+</div>
 
 
 ## Github Stats 🔥
