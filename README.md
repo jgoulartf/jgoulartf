@@ -8,7 +8,7 @@
 <br/>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ArthurOlive)](https://github.com/jgoulartf)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-goulart-0a2541150/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-goulart-0a2541150/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao123goulart@gmail.com)](mailto:joao123goulart@gmail.com)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](mailto:joao123goulart@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=discord&logoColor=white&link=https://www.instagram.com/jgoulart.dev)](https://www.instagram.com/jgoulart.dev)
