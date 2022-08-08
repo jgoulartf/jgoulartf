@@ -13,11 +13,16 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=discord&logoColor=white&link=https://www.instagram.com/jgoulart.dev)](https://www.instagram.com/jgoulart.dev)
 
 <table>
-
-  <a href="https://github.com/jgoulartf">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgoulartf&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgoulartf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <th>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgoulartf&layout=compact&langs_count=7&theme=dracula"/>
+  </th>
+  <th>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgoulartf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </th> 
 </table>
+- 📚 Graduating in Computer Science at UFERSA.
+
+![Snake animation](https://github.com/jgoulartf/jgoulartf/blob/output/github-contribution-grid-snake.svg)
 
 <!-- 
 
@@ -38,10 +43,6 @@
 
 <a href="https://www.buymeacoffee.com/jgoulart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-![Snake animation](https://github.com/jgoulartf/jgoulartf/blob/output/github-contribution-grid-snake.svg)
-
-  
-  
   
 <!--
 **jgoulartf/jgoulartf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
