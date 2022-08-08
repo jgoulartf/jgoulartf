@@ -1,8 +1,5 @@
 ## Heey 👋, I'm João Goulart!
 
- 
-
-<img height=30px width=30px src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 
 
@@ -34,6 +31,9 @@
   <a href="https://github.com/jgoulartf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgoulartf&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgoulartf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   
+  <img height=100px width=100px src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 </div>
 
 <br/>
