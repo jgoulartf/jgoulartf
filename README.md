@@ -13,11 +13,17 @@
 <br/>
 <br/>
 
-## Language and tools
+## Languages
 <div>
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height=100px width=100px src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+</div>
+
+
+## Tools
+<div> 
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -31,9 +37,7 @@
   <a href="https://github.com/jgoulartf">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgoulartf&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgoulartf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   
-  <img height=100px width=100px src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-
+  
 </div>
 
 <br/>
