@@ -1,11 +1,10 @@
 ## Heey 👋, I'm João Goulart!
 
-<!-- 
+ 
 
-gif codigo
-<img src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+<img height=30px width=30px src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
--->
+
 
 <br/>
 
