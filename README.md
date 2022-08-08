@@ -1,3 +1,10 @@
+<style>
+  .margin-l {
+      margin-left: 50px;
+  }
+</style>
+
+
 ## Heey 👋, I'm João Goulart!
 
 
@@ -51,11 +58,6 @@
 ![Snake animation](https://github.com/jgoulartf/jgoulartf/blob/output/github-contribution-grid-snake.svg)
 
   
-<style>
-  .margin-l {
-      margin-left: 50px;
-  }
-</style>
   
   
 <!--
