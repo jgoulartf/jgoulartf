@@ -20,6 +20,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgoulartf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </th> 
 </table>
+
 - 📚 Graduating in Computer Science at UFERSA.
 
 ![Snake animation](https://github.com/jgoulartf/jgoulartf/blob/output/github-contribution-grid-snake.svg)
