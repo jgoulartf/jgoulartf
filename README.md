@@ -7,10 +7,10 @@
 
 <br/>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ArthurOlive)](https://github.com/ArthurOlive)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthuroliveira909.av@gmail.com)](mailto:arthuroliveira909.av@gmail.com)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](mailto:arthuroliveira909.av@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=discord&logoColor=white&link=https://www.instagram.com/art.oli23)](https://www.instagram.com/art.oli23)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ArthurOlive)](https://github.com/jgoulartf)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joao123goulart@gmail.com)](mailto:joao123goulart@gmail.com)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](mailto:joao123goulart@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=discord&logoColor=white&link=https://www.instagram.com/jgoulart.dev)](https://www.instagram.com/jgoulart.dev)
 
 <table>
 
