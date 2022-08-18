@@ -25,14 +25,14 @@
 - 📚 Graduating in Computer Science at UFERSA.
 
 
-## Languages
+<!-- ## Languages -->
 <div>
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-## Tools
+<!-- ## Tools -->
 <div> 
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
