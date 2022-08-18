@@ -24,10 +24,6 @@
 
 - 📚 Graduating in Computer Science at UFERSA.
 
-![Snake animation](https://github.com/jgoulartf/jgoulartf/blob/output/github-contribution-grid-snake.svg)
-
-<!-- 
-
 
 ## Languages
 <div>
@@ -42,6 +38,11 @@
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height=30px width=30px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
+
+![Snake animation](https://github.com/jgoulartf/jgoulartf/blob/output/github-contribution-grid-snake.svg)
+
+<!-- 
 
 <a href="https://www.buymeacoffee.com/jgoulart" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
