@@ -23,7 +23,7 @@
   </th> 
 </table>
 
-- 📚 Graduating in Computer Science at UFERSA.
+### - 📚 Graduating in Computer Science at UFERSA.
 
 ### Skills
 <!-- ## Languages -->
