@@ -25,7 +25,7 @@
 
 - 📚 Graduating in Computer Science at UFERSA.
 
-
+### Skills
 <!-- ## Languages -->
 <div>
   <table>
