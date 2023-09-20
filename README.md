@@ -24,7 +24,9 @@
 </table>
 
 - ### 📚 Graduating in Computer Science at UFERSA.
-
+- ### 🧑‍💻 Active member of GeSYCA(Group of Embedded Systems and Computer Architecture)
+- ### 🤖 M.L. researcher
+- ### 📊 Data scientist researcher 
 ### Skills
 <!-- ## Languages -->
 <div>
