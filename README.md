@@ -1,4 +1,4 @@
-## Heey 👋, I'm João Goulart!
+## Hey 👋, I'm João Goulart!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jgoulartf)](https://github.com/jgoulartf)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-goulart-0a2541150/)
@@ -10,20 +10,27 @@
 
 ### About Me
 
-- 🎓 Formado em Ciência da Computação pela UFERSA.
-- 🎓 Mestrando em Ciência da Computação com foco em I.A., PLN, LLMs e RAG.
-- 🤖 Pesquisador e cientista de dados.
-- 💡 Experiência em desenvolvimento full-stack, sistemas embarcados e aceleração de algoritmos.
-- 🌐 Membro ativo do GeSYCA (Grupo de Sistemas Embarcados e Arquitetura de Computadores).
+- 🎓 Computer Science graduate from UFERSA.
+- 🎓 Currently pursuing a Master's in Computer Science with a focus on AI, NLP, LLMs, and RAG.
+- 🤖 Researcher in these fields and a software engineer.
+- 💡 Experienced in full-stack development, embedded systems, and FPGA algorithm acceleration.
+- 🌐 Active member of GeSYCA (Embedded Systems and Computer Architecture Group).
 
 ---
 
 ### Skills
 
 <div align="center">
+  <!-- Programming Languages & Frameworks -->
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <!-- AI & ML -->
+  <img height="30" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" />
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/LangChain_logo.png" alt="LangChain" />
 </div>
 
 ---
@@ -34,6 +41,8 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" alt="WebStorm" />
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" />
 </div>
 
 ---
