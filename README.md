@@ -14,7 +14,6 @@
 - 🎓 Currently pursuing a Master's in Computer Science with a focus on AI, NLP, LLMs, and RAG.
 - 🤖 Researcher in these fields and a software engineer.
 - 💡 Experienced in full-stack development, embedded systems, and FPGA algorithm acceleration.
-- 🌐 Active member of GeSYCA (Embedded Systems and Computer Architecture Group).
 
 ---
 
